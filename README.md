@@ -92,9 +92,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 To review the code, please go to the [repository](https://github.com/sistaniabong/ecommerce-backend)
 
 Please see below links to see demo videos:
-https://drive.google.com/drive/folders/1X3U9h2M4epbYHh9MtBx0ortYZnOz2ifn
-
-https://drive.google.com/drive/folders/1X3U9h2M4epbYHh9MtBx0ortYZnOz2ifn
+ https://watch.screencastify.com/v/iBmODReK7qP4E4esVcKY
+ 
+ https://watch.screencastify.com/v/L2QghI0908ajdy0FNb3l
 
 
 ## Questions
